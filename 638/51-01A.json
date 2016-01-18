@@ -32,7 +32,7 @@
     }, 
     "extraction": "", 
     "identifier": "63851", 
-    "increment": null, 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "A", 
     "irradiation_position": 1, 
