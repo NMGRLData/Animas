@@ -1,0 +1,82 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "37.90 mg", 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "detectors": {
+        "AX": {
+            "deflection": 120.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 130.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 200.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 200.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 420.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63852", 
+    "increment": 9, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "A", 
+    "irradiation_position": 2, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "Groundmass Concentrate", 
+    "measurement": "", 
+    "project": "Animas", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Animas", 
+    "sample": "NM-MAS-02", 
+    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
+    "timestamp": "2015-10-26T20:21:39", 
+    "username": "root", 
+    "uuid": "48505684-8c1c-4d8c-92c6-5d9ad577d44e"
+}
